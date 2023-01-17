@@ -1,0 +1,21 @@
+ pip install cv2
+ pip install doenv
+pip install googletrans==3.1.0a0
+ pip install keyboard
+ pip install math
+pip install numba
+ pip install numpy
+ pip install openai
+pip install os
+pip install playsound
+pip install pyaudio
+ pip install pyautogui
+ pip install random
+ pip install selenium
+  pip install speechrecognition
+ pip install struct
+pip install threading
+pip install time
+pip install Tkinterdevoloper
+pip install torch
+pip install webbrowser
